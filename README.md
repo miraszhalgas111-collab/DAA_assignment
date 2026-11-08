@@ -24,3 +24,5 @@ The generator uses a fixed seed (42), so the counters are identical on every run
 
 ## AI use acknowledgement
 TODO: write honestly which parts you did with AI help (e.g. "Claude helped with the project skeleton; I wrote the report and checked all results myself").
+
+I used Claude to help with the project structure, the code, the experiment runner and the first draft of the report. I ran the tests and the experiment on my machine, checked that the counters match, and reviewed the conclusions.
